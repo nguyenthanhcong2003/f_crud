@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "389683949969",
+    "firebase_url": "https://dntgk-f274a-default-rtdb.firebaseio.com",
+    "project_id": "dntgk-f274a",
+    "storage_bucket": "dntgk-f274a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389683949969:android:7ad6d4e8640ca3f6dd2a30",
+        "android_client_info": {
+          "package_name": "com.example.dntgk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVx9yJ95ZIQJFTI8AtkQvL7c60ZTGcNzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
